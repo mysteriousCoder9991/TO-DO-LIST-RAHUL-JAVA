@@ -1,0 +1,4 @@
+jdk>=1.8.0
+ojdbc.jar
+
+Oracle Database XE installed in the system
